@@ -1,7 +1,7 @@
 # Simple-Neural-Network
 1, it's a simple MLP.
 
-2, some methods like mini batch, exponentially weighted averages, softmax, FP, BP...
+2, some methods like mini batch, exponentially weighted averages, multi-logistic, FP, BP...
 
 3, activation function: leaky, faster convergence than sigmoid
 
